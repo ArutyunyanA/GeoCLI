@@ -3,7 +3,7 @@
 
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Repository](https://img.shields.io/badge/repo-ArutyunyanA%2FPSWDGEN-blue)](https://github.com/ArutyunyanA/PSWDGEN)
+[![Repository](https://img.shields.io/badge/repo-ArutyunyanA%2FPSWDGEN-blue)]((https://github.com/ArutyunyanA/GeoCLI))
 
 **A fast, reliable CLI utility for calculationg deference routes using API: MapBox.**
 
