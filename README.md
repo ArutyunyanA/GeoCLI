@@ -85,12 +85,17 @@ Dependencies
 Project Structure
 
 ```code
-GeoCLI/
-├── src/
-│   └── main.rs         # Entry point
-├── Cargo.toml          # Project manifest
-├── Cargo.lock          # Dependency lock file
-└── README.md           # This file
+.
+├── Cargo.lock
+├── Cargo.toml
+└── src
+    ├── api.rs
+    ├── app.rs
+    ├── config.rs
+    ├── main.rs
+    ├── services.rs
+    └── ui.rs
+
 ```
 
 
