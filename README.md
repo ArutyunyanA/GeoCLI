@@ -1,5 +1,15 @@
 # GeoCLI
+<div align="center">
 
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Repository](https://img.shields.io/badge/repo-ArutyunyanA%2FPSWDGEN-blue)](https://github.com/ArutyunyanA/PSWDGEN)
+
+**A fast, reliable CLI utility for calculationg deference routes using API: MapBox.**
+
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Configuration](#configuration) • [Contributing](#contributing)
+
+</div>
 A Rust-based command-line application for working with geolocation APIs and endpoints to fetch valid and useful geographic data.
 
 ## Overview
